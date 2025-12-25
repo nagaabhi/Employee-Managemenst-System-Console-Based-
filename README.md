@@ -1,18 +1,18 @@
-This project is based up on the employee management system.
-In this project I have used Core Java, Oops,Collection Framework.
-In This I have segregated the project in to 
-1 -> Employee
-     a.Full Time Employee
-     b.Part Time Employee
-     c.Contrct Based Employee
-2 -> Empmoyee Management
-     a.Add Employee
-     b.Display Employee Details
-     c.Display Specific Employee Details
-     d.Display In Details In Table Form.
-     e.Remove Employee
-     f.Exit Application...
-3 -> Main Control
+* This project is based up on the employee management system.
+* In this project I have used Core Java, Oops,Collection Framework.
+* In This I have segregated the project in to 
+1 * Employee
+     * Full Time Employee
+     * Part Time Employee
+     * Contrct Based Employee
+2 * Empmoyee Management
+     * Add Employee
+     * Display Employee Details
+     * Display Specific Employee Details
+     * Display In Details In Table Form.
+     * Remove Employee
+     * Exit Application...
+3 * Main Control
 <img width="1775" height="735" alt="Screenshot 2025-12-19 182507" src="https://github.com/user-attachments/assets/d1dcb6cc-5d63-4f66-ae66-cb198930e838" />
 
 <img width="1776" height="753" alt="Screenshot 2025-12-19 182625" src="https://github.com/user-attachments/assets/6a4b8a2c-4afb-4feb-8d25-b30d078abcc3" />
